@@ -1,0 +1,5 @@
+@import url('../css/fonts.css');
+
+.jumbotron{
+	background-image: url('assets/Background-image.jpg');
+}
